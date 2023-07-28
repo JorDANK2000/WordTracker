@@ -1,0 +1,5 @@
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\publish\WordTracker.exe
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\publish\WordTracker.dll
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\publish\WordTracker.deps.json
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\publish\WordTracker.runtimeconfig.json
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\publish\WordTracker.pdb

@@ -1,0 +1,15 @@
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\WordTracker.exe
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\WordTracker.deps.json
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\WordTracker.runtimeconfig.json
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\WordTracker.dll
+C:\Programs\C#Programs\WordTracker\bin\Debug\net7.0\WordTracker.pdb
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.csproj.AssemblyReference.cache
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.AssemblyInfoInputs.cache
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.AssemblyInfo.cs
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.csproj.CoreCompileInputs.cache
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.dll
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\refint\WordTracker.dll
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.pdb
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\WordTracker.genruntimeconfig.cache
+C:\Programs\C#Programs\WordTracker\obj\Debug\net7.0\ref\WordTracker.dll
